@@ -1,4 +1,4 @@
-# EX-12-ElGamal
+# EX-12-Elgamal
 ## AIM:
 To encrypt and decrypt a message using the ElGamal encryption algorithm.
 
@@ -64,9 +64,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/9069fa28-b97e-48cb-93dc-4b08643952d8)
 
-
+![image](https://github.com/user-attachments/assets/d85cc03c-90bb-48ad-baba-ff154a3aee74)
 
 ## RESULT:
 The program for ElGamal encryption and decryption was executed successfully. Alice and Bob exchanged an encrypted message and verified that the decrypted message matched the original message.
